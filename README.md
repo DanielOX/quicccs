@@ -2,8 +2,7 @@
 
 <h4>File Sharing/Management Website</h4>
 
-<table>
-    
+    <table>
     <thead>
         <th>
             Framework
@@ -17,8 +16,9 @@
     <td>
     Laravel
     </td>
-    5 hrs approx.
     <td>
+    5 hrs approx.
     </td>
-
-</tr>
+    </tr>
+    </tbody>
+    </table>
