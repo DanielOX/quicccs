@@ -2,23 +2,5 @@
 
 <h4>File Sharing/Management Website</h4>
 
-    <table>
-    <thead>
-        <th>
-            Framework
-        </th>
-        <th>
-            Dev Time
-        </th>    
-    </thead>
-    <tbody>
-    <tr>
-    <td>
-    Laravel
-    </td>
-    <td>
-    5 hrs approx.
-    </td>
-    </tr>
-    </tbody>
-    </table>
+<p>
+    Built For Fiverr Client
